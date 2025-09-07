@@ -1,4 +1,4 @@
-# Day 1 Summary – Data Loading & Initial Inspection
+# Step 1 Summary – Data Loading & Initial Inspection
 
 - Dataset Shape: (7043, 21)
 - Target column: "Churn"
